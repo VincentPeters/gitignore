@@ -1,0 +1,97 @@
+# ###############################
+#         Laravel 4
+# ###############################
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+
+# ###############################
+#         Wordpress 
+# ###############################
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+sitemap.xml
+*.log
+wp-content/cache/
+wp-content/backups/
+sitemap.xml.gz
+wp-config.php
+
+# ###############################
+#         Composer
+# ###############################
+vendor
+composer.phar
+
+# ###############################
+#         Sass   
+# ###############################
+.sass-cache
+
+# ###############################
+#         JetBrains IDE's   
+# ###############################
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+atlassian-ide-plugin.xml
+
+# ###############################
+#         Sublime Text
+# ###############################
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+
+# ###############################
+#         Vim
+# ###############################
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# ###############################
+#         Logs 
+# ###############################
+logs/
+error.log
+access.log
+
+# ###############################
+#         Vagrant 
+# ###############################
+.vagrant/
+
+# ###############################
+#         Apple 
+# ###############################
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# ###############################
+#         Windows 
+# ###############################
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
