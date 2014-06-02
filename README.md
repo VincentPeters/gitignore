@@ -1,0 +1,4 @@
+gitignore
+=========
+
+My personal .gitignore.
